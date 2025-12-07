@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1001,
+    "name": "Player One",
+    "teamId": 1,
+    "rating": 1.23,
+    "avatar": ""
+  },
+  {
+    "id": 1002,
+    "name": "Player Two",
+    "teamId": 2,
+    "rating": 1.05,
+    "avatar": ""
+  },
+  {
+    "id": 1003,
+    "name": "Player Three",
+    "teamId": 3,
+    "rating": 1.4,
+    "avatar": ""
+  },
+  {
+    "id": 1004,
+    "name": "Player Four",
+    "teamId": 4,
+    "rating": 1.1,
+    "avatar": ""
+  }
+]

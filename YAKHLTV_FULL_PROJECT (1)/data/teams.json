@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "name": "Team A",
+    "slug": "team-a"
+  },
+  {
+    "id": 2,
+    "name": "Team B",
+    "slug": "team-b"
+  },
+  {
+    "id": 3,
+    "name": "Team C",
+    "slug": "team-c"
+  },
+  {
+    "id": 4,
+    "name": "Team D",
+    "slug": "team-d"
+  }
+]
